@@ -17,7 +17,7 @@ Sample output of Bengali numbers:
 
 | Script              |        Range                        |     Unicode PDF Link                                 |
 | -----------------   | ----------------------------------  |  --------------------------------------------------  |
-|  Bengali             |     0x0980 - 09FF                   | https://unicode.org/charts/PDF/U0980.pdf             |  
+|  Bengali             |     0x0980 - 0x09FF                 | https://unicode.org/charts/PDF/U0980.pdf             |  
 |  Brahmi              |     0x11000 - 0x1107F               | https://unicode.org/charts/PDF/U11000.pdf            |
 |  Devanagari          |     0x0900 - 0x097F                 | https://unicode.org/charts/PDF/U0900.pdf             |
 |  Gujarati            |     0x0A80 - 0x0AFF                 | https://unicode.org/charts/PDF/U0A80.pdf             |
