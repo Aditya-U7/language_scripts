@@ -6,7 +6,7 @@ I have referred to various Unicode scripts for the range of various languages sc
 
 The different scripts have been commented. To print the respective script simply uncomment that language script and comment the rest.
 
-![Screenshot](commentoutput.png)
+![Screenshot](commentou.png)
 
 Sample output of Bengali numbers:
 
