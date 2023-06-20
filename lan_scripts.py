@@ -1,7 +1,7 @@
 '''
 Author: Aditya Upadhye
 
-This program prints the Unicode characters of various Indian languages and also displays the information such its code point and name.
+This program prints the Unicode characters of various languages and also displays the information such as its code point and name.
 '''
 
 import unicodedata
