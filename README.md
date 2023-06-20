@@ -6,7 +6,7 @@ I have referred to various Unicode scripts for the range of various languages sc
 
 The different scripts have been commented. To print the respective script simply the uncomment that one and comment the rest.
 
-![Screenshot](commentoutput.png)
+![Screenshot](bengalioutput.png)
 
 
 # Hexadecimal range of various scripts:
