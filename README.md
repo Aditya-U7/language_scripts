@@ -4,7 +4,7 @@ This is a simple program for the printing the characters and the Unicode code po
 
 I have referred to various Unicode scripts for the range of various languages scripts.
 
-The different scripts have been commented. To print the respective script simply the uncomment that one and comment the rest.
+The different scripts have been commented. To print the respective script simply uncomment that language script and comment the rest.
 
 ![Screenshot](commentoutput.png)
 
