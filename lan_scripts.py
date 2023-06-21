@@ -16,7 +16,7 @@ def print_characters(unicode_characters):
       
             print(chr(character).center(10), end=" ")
     
-            print(f'U+{character:04x}'.center(16), end=" ")
+            print(f'U+{character:04X}'.center(16), end=" ")
     
             print(unicodedata.name(chr(character), "<Reserved>"), end="\n\n")
             
