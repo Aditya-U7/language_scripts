@@ -6,7 +6,7 @@ I have referred to various Unicode scripts for the range of various languages sc
 
 The different scripts have been commented. To print the respective script simply uncomment that language script and comment the rest.
 
-![Screenshot](commentou.png)
+![Screenshot](commentoutput.png)
 
 Sample output of Bengali characters:
 
@@ -17,10 +17,12 @@ Sample output of Bengali characters:
 
 | Script              |        Range                        |     Unicode PDF Link                                 |
 | -----------------   | ----------------------------------  |  --------------------------------------------------  |
-|  Bengali             |     0x0980 - 0x09FF                 | https://unicode.org/charts/PDF/U0980.pdf             |  
-|  Brahmi              |     0x11000 - 0x1107F               | https://unicode.org/charts/PDF/U11000.pdf            |
-|  Devanagari          |     0x0900 - 0x097F                 | https://unicode.org/charts/PDF/U0900.pdf             |
-|  Gujarati            |     0x0A80 - 0x0AFF                 | https://unicode.org/charts/PDF/U0A80.pdf             |
-|  Malayalam           |     0x0D00 - 0x0D7F                 | https://www.unicode.org/charts/PDF/U0D00.pdf         |
-|  Tamil               |     0x0B80 - 0x0BFF                 | https://unicode.org/charts/PDF/U0B80.pdf             |
-|  Telugu              |     0x0C00 - 0x0C7F                 | https://www.unicode.org/charts/PDF/U0C00.pdf         |
+|  Bengali            |     0x0980 - 0x09FF                 | https://unicode.org/charts/PDF/U0980.pdf             |  
+|  Brahmi             |     0x11000 - 0x1107F               | https://unicode.org/charts/PDF/U11000.pdf            |
+|  Devanagari         |     0x0900 - 0x097F                 | https://unicode.org/charts/PDF/U0900.pdf             |
+|  Gujarati           |     0x0A80 - 0x0AFF                 | https://unicode.org/charts/PDF/U0A80.pdf             |
+|  Kannada            |     0x0C80 - 0x0CFF                 | https://unicode.org/charts/PDF/U0C80.pdf             |
+|  Malayalam          |     0x0D00 - 0x0D7F                 | https://www.unicode.org/charts/PDF/U0D00.pdf         |
+|  Odia               |     0x0B00 - 0x0B7F                 | https://unicode.org/charts/PDF/U0B00.pdf             |
+|  Tamil              |     0x0B80 - 0x0BFF                 | https://unicode.org/charts/PDF/U0B80.pdf             |
+|  Telugu             |     0x0C00 - 0x0C7F                 | https://www.unicode.org/charts/PDF/U0C00.pdf         |
