@@ -8,9 +8,9 @@ The different scripts have been commented. To print the respective script simply
 
 ![Screenshot](commentou.png)
 
-Sample output of Bengali numbers:
+Sample output of Bengali characters:
 
-![Screenshot](bengalioutput.png)
+![Screenshot](scriptoutput.png)
 
 
 # Hexadecimal range of various scripts:
