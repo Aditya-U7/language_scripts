@@ -1,16 +1,16 @@
 # unicode_language_scripts
 
-This is a simple program for the printing the characters and the Unicode code points of various language scripts.
+This is a simple program for the printing the characters and the Unicode code points of various language scripts along with the character names.
 
 I have referred to various Unicode scripts for the range of various languages scripts.
 
-The different scripts have been commented. To print the respective script simply uncomment that language script and comment the rest.
+You will be asked for the script to be displayed from the given options.
 
-![Screenshot](commentoutput.png)
+If you enter an invalid script i.e. not in the given options list, it will generate an 'Invalid input' message. After 3 incorrect inputs the program will terminate.
 
-Sample output of Bengali characters:
+Sample output of the program:
 
-![Screenshot](scriptoutput.png)
+![Screenshot](output.png)
 
 
 # Hexadecimal range of various scripts:
