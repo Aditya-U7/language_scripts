@@ -1,12 +1,12 @@
 # unicode_language_scripts
 
-This is a simple program for printing the characters and the Unicode code points of various language scripts along with their character names.
+This is a simple program for printing the characters and the Unicode code points of various language scripts in addition to their character names.
 
-I have referred to various Unicode scripts for the range of various languages scripts.
+I have referred to various Unicode scripts for the range of various language scripts.
 
-You will be asked to select the script to be displayed from the given options.
+You will be asked to select the script for which characters will be displayed, from the given options.
 
-If you enter an invalid script i.e. not in the given options list, it will generate an 'Invalid input' message. After 3 incorrect inputs the program will terminate.
+If you enter an invalid script, i.e. not in the given options list, it will generate an 'Invalid input' message. After 3 incorrect inputs the program will terminate.
 
 Sample output of the program:
 
