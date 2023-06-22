@@ -1,6 +1,6 @@
 # unicode_language_scripts
 
-This is a simple program for the printing the characters and the Unicode code points of various language scripts along with their character names.
+This is a simple program for printing the characters and the Unicode code points of various language scripts along with their character names.
 
 I have referred to various Unicode scripts for the range of various languages scripts.
 
