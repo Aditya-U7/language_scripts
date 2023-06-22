@@ -81,7 +81,7 @@ def generate_the_script(user_choice, scripts):
         
         "Brahmi": (0x11000, 0x11080),
         
-        "Devnagari": (0x0900, 0x0980),
+        "Devanagari": (0x0900, 0x0980),
         
         "Gujarati": (0x0A80, 0x0B00),
         
@@ -113,7 +113,7 @@ scripts = [
     
     "Bengali",
     "Brahmi",
-    "Devnagari",
+    "Devanagari",
     "Gujarati",
     "Kannada",
     "Malayalam",
