@@ -10,7 +10,7 @@ If you enter an invalid script i.e. not in the given options list, it will gener
 
 Sample output of the program:
 
-![Screenshot](output.png)
+![Screenshot](scriptoutput.png)
 
 
 # Hexadecimal range of various scripts:
