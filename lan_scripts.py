@@ -122,7 +122,7 @@ scripts = [
     "Telugu",
 ]
 
-print("\nThis is a program for generating the charactes of the various scripts.\n")
+print("\nThis is a program for generating the characters of the various scripts.\n")
 
 user_choice = take_user_choice(scripts)
 
