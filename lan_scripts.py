@@ -2,7 +2,7 @@
 
 Author: Aditya Upadhye
 
-This program prints the Unicode characters of various language scripts. 
+This program prints the Unicode characters of various language scripts along with their Unicode points and their character names. 
 
 '''
 
@@ -102,7 +102,7 @@ def generate_the_script(user_choice, scripts):
 
     print("\n\nRange: ", end="")
 
-    print(f"{start : 04X}", "-", f"{(end-1) : 04X}")
+    print(f"{start:04X}", "-", f"{(end - 1):04X}")
 
     return [i for i in range(start, end)]
 
@@ -122,7 +122,7 @@ scripts = [
     "Telugu",
 ]
 
-print("\nHello, this is a program for printing the Unicode code points and the character names.\n")
+print("\nThis is a program for generating the charactes of the various scripts.\n")
 
 user_choice = take_user_choice(scripts)
 
