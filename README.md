@@ -11,7 +11,7 @@ If you enter an invalid script, i.e. not in the given options list, it will gene
 ## Note: 
 
 For the characters to appear on your system, you might require to install fonts for the respective scripts. 
-For example for Brahmi script, you need this font on your system:
+For example for the Brahmi script, you need this font on your system:
 
 https://fonts.google.com/noto/specimen/Noto+Sans+Brahmi
       
