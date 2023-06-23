@@ -4,16 +4,25 @@ This is a simple program for printing the characters and the Unicode code points
 
 I have referred to various Unicode scripts for the range of various language scripts.
 
-You will be asked to select the script for which characters will be displayed, from the given options.
+You will be asked to select the script for which characters will be displayed from the given options.
 
 If you enter an invalid script, i.e. not in the given options list, it will generate an 'Invalid input' message. After 3 incorrect inputs the program will terminate.
 
-Sample output of the program:
+## Note: 
+
+For the characters to appear on your system, you might require to install fonts for the respective scripts. 
+For example for Brahmi script, you need this font on your system:
+
+https://fonts.google.com/noto/specimen/Noto+Sans+Brahmi
+      
+
+## Sample output of the program:
 
 ![Screenshot](output.png)
 
+The `<Reserved>` is printed when a hexadecimal value has not been alloted any character. Refer to Unicode table for more information.
 
-# Hexadecimal range of various scripts:
+## Hexadecimal range of various scripts:
 
 | Script              |        Range                        |     Unicode PDF Link                                 |
 | -----------------   | ----------------------------------  |  --------------------------------------------------  |
