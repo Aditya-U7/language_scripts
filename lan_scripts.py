@@ -47,7 +47,7 @@ def take_user_choice(scripts):
 
     while True:
 
-        user_choice = input().split(" ") 
+        user_choice = input().split() 
 
         for i in range(len(user_choice)):
             
