@@ -14,11 +14,14 @@ For the characters to appear on your system, you might require to install fonts 
 For example for the Brahmi script, you need this font on your system:
 
 https://fonts.google.com/noto/specimen/Noto+Sans+Brahmi
-      
 
+For Ol Chiki:
+
+https://fonts.google.com/noto/specimen/Noto+Sans+Ol+Chiki
+      
 ## Sample output of the program:
 
-![Screenshot](output.png)
+![Screenshot](scriptoutput.png)
 
 The `<Reserved>` is printed when a hexadecimal value has not been alloted any character. Refer to Unicode table for more information.
 
@@ -33,5 +36,6 @@ The `<Reserved>` is printed when a hexadecimal value has not been alloted any ch
 |  Kannada            |     0x0C80 - 0x0CFF                 | https://unicode.org/charts/PDF/U0C80.pdf             |
 |  Malayalam          |     0x0D00 - 0x0D7F                 | https://www.unicode.org/charts/PDF/U0D00.pdf         |
 |  Odia               |     0x0B00 - 0x0B7F                 | https://unicode.org/charts/PDF/U0B00.pdf             |
+|  Ol Chiki           |     0x1C50 - 0x1C7F                 | https://www.unicode.org/charts/PDF/U1C50.pdf         | 
 |  Tamil              |     0x0B80 - 0x0BFF                 | https://unicode.org/charts/PDF/U0B80.pdf             |
 |  Telugu             |     0x0C00 - 0x0C7F                 | https://www.unicode.org/charts/PDF/U0C00.pdf         |
