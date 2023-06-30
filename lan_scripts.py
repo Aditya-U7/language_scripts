@@ -73,7 +73,7 @@ def take_user_choice(scripts):
             return user_choice
 
 
-def generate_the_script(user_choice, scripts):
+def generate_the_script(user_choice):
 
     script_range = {
         
@@ -126,7 +126,7 @@ print('\nThis is a program for generating the characters of the various scripts.
 
 user_choice = take_user_choice(scripts)
 
-script_characters = generate_the_script(user_choice, scripts)
+script_characters = generate_the_script(user_choice)
 
 print_characters(script_characters)
 
