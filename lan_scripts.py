@@ -39,7 +39,7 @@ def take_user_choice(scripts):
 
     for choice in scripts:
 
-        print(choice, end=' ')
+        print(choice, end=' | ')
 
     print('\n')
 
@@ -47,7 +47,13 @@ def take_user_choice(scripts):
 
     while True:
 
-        user_choice = input().capitalize()
+        user_choice = input().split(" ") 
+
+        for i in range(len(user_choice)):
+            
+            user_choice[i] = user_choice[i].capitalize()
+
+        user_choice = " ".join(user_choice) 
 
         if user_choice not in scripts:
 
@@ -91,6 +97,8 @@ def generate_the_script(user_choice):
         
         'Odia': (0x0B00, 0x0B7F),
         
+        'Ol Chiki': (0x1C50, 0x1C7F),
+        
         'Tamil': (0x0B80, 0x0BFF),
         
         'Telugu': (0x0C00, 0x0C7F),
@@ -118,6 +126,7 @@ scripts = [
     'Kannada',
     'Malayalam',
     'Odia',
+    'Ol Chiki',
     'Tamil',
     'Telugu',
 ]
