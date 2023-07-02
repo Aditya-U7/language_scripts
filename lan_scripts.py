@@ -24,7 +24,7 @@ def print_characters(script_characters):
 
             print(unicodedata.name(chr(character), '<Reserved>'), end='\n\n')
 
-            # print(unicodedata.category(chr(emoji)), end='\n\n')  For category of the character.
+            # print(unicodedata.category(chr(character)), end='\n\n')  For category of the character.
 
         except ValueError:
 
