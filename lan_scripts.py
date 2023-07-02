@@ -24,7 +24,7 @@ def print_characters(script_characters):
 
             print(unicodedata.name(chr(character), '<Reserved>'), end='\n\n')
 
-            # print(unicodedata.category(chr(character)), end='\n\n')  For category of the character.
+            # print(unicodedata.category(chr(character)), end='\n\n') For category of the character.
 
         except ValueError:
 
@@ -47,14 +47,8 @@ def take_user_choice(scripts):
 
     while True:
 
-        user_choice = input().split() 
-
-        for i in range(len(user_choice)):
-            
-            user_choice[i] = user_choice[i].capitalize()
-
-        user_choice = " ".join(user_choice) 
-
+        user_choice = input().title().rstrip()
+        
         if user_choice not in scripts:
 
             print('\nOops! Invalid input.')
