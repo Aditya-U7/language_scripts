@@ -73,7 +73,7 @@ def take_user_choice(scripts):
             return user_choice
 
 
-def generate_the_script(user_choice):
+def generate_the_script():
 
     script_range = {
         
@@ -97,6 +97,8 @@ def generate_the_script(user_choice):
         
         'Telugu': (0x0C00, 0x0C7F),
     }
+    
+    user_choice = take_user_choice(script_range)
 
     start = script_range[user_choice][0]
 
@@ -111,25 +113,8 @@ def generate_the_script(user_choice):
 
 #################################
 
-scripts = [
-    
-    'Bengali',
-    'Brahmi',
-    'Devanagari',
-    'Gujarati',
-    'Kannada',
-    'Malayalam',
-    'Odia',
-    'Ol Chiki',
-    'Tamil',
-    'Telugu',
-]
-
 print('\nThis is a program for generating the characters of the various scripts.\n')
 
-user_choice = take_user_choice(scripts)
-
-script_characters = generate_the_script(user_choice)
+script_characters = generate_the_script()
 
 print_characters(script_characters)
-
