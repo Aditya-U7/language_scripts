@@ -33,6 +33,7 @@ The `<Reserved>` is printed when a hexadecimal value has not been alloted any ch
 |  Brahmi             |     0x11000 - 0x1107F               | https://unicode.org/charts/PDF/U11000.pdf            |
 |  Devanagari         |     0x0900 - 0x097F                 | https://unicode.org/charts/PDF/U0900.pdf             |
 |  Gujarati           |     0x0A80 - 0x0AFF                 | https://unicode.org/charts/PDF/U0A80.pdf             |
+|  Gurmukhi           |     0x0A00 - 0x0A7F                 | https://unicode.org/charts/PDF/U0A00.pdf             |
 |  Kannada            |     0x0C80 - 0x0CFF                 | https://unicode.org/charts/PDF/U0C80.pdf             |
 |  Malayalam          |     0x0D00 - 0x0D7F                 | https://www.unicode.org/charts/PDF/U0D00.pdf         |
 |  Odia               |     0x0B00 - 0x0B7F                 | https://unicode.org/charts/PDF/U0B00.pdf             |
