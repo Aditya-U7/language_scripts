@@ -85,6 +85,8 @@ def generate_the_script():
         
         'Gujarati': (0x0A80, 0x0AFF),
         
+        'Gurmukhi' : (0x0A00, 0x0A7F),
+        
         'Kannada': (0x0C80, 0x0CFF),
         
         'Malayalam': (0x0D00, 0x0D7F),
