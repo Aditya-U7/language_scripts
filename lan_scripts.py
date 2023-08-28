@@ -47,7 +47,7 @@ def take_user_choice(scripts):
 
     while True:
 
-        user_choice = input().title().rstrip()
+        user_choice = input().title().strip()
         
         if user_choice not in scripts:
 
