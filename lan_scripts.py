@@ -94,6 +94,8 @@ def generate_the_script():
         'Odia': (0x0B00, 0x0B7F),
         
         'Ol Chiki': (0x1C50, 0x1C7F),
+
+        'Sharada': (0x11180, 0x111DF),
         
         'Tamil': (0x0B80, 0x0BFF),
         
