@@ -21,7 +21,7 @@ https://fonts.google.com/noto/specimen/Noto+Sans+Ol+Chiki
       
 ## Sample output of the program:
 
-![Screenshot](scriptop.png)
+![Screenshot](scriptoutput.png)
 
 The `<Reserved>` is printed when a hexadecimal value has not been alloted any character. Refer to Unicode table for more information.
 
