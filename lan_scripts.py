@@ -12,7 +12,7 @@ import unicodedata
 
 def print_characters(script_characters):
 
-    print('\nCharacter | Unicode Point | Name \n')
+    print('\nCharacter | Code Point | Name \n')
 
     for character in script_characters:
 
