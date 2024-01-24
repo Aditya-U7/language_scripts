@@ -1,8 +1,8 @@
 # language_scripts
 
-This is a simple program for printing the characters and the Unicode code points of various language scripts in addition to their character names.
+This is a simple program for printing the characters and the Unicode® code points of various language scripts in addition to their character names.
 
-I have referred to various Unicode scripts for the range of various language scripts.
+I have referred to the Unicode® Standard to print the characters of the various language scripts.
 
 You will be asked to select the script for which characters will be displayed from the given options.
 
@@ -27,7 +27,7 @@ The `<Reserved>` is printed when a hexadecimal value has not been alloted any ch
 
 ## Hexadecimal range of various scripts:
 
-| Script              |        Range                        |     Unicode PDF Link                                 |
+| Script              |        Range                        |                      PDF Link                        |
 | -----------------   | ----------------------------------  |  --------------------------------------------------  |
 |  Bengali            |     0x0980 - 0x09FF                 | https://unicode.org/charts/PDF/U0980.pdf             |  
 |  Brahmi             |     0x11000 - 0x1107F               | https://unicode.org/charts/PDF/U11000.pdf            |
