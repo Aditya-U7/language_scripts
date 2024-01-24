@@ -1,4 +1,4 @@
-# unicode_language_scripts
+# language_scripts
 
 This is a simple program for printing the characters and the Unicode code points of various language scripts in addition to their character names.
 
