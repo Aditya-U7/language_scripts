@@ -90,6 +90,8 @@ def generate_the_script():
         'Kannada': (0x0C80, 0x0CFF),
         
         'Malayalam': (0x0D00, 0x0D7F),
+
+        'Meetei Mayek': (0xABC0, 0xABFF),
         
         'Odia': (0x0B00, 0x0B7F),
         
