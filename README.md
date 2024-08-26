@@ -21,7 +21,7 @@ https://fonts.google.com/noto/specimen/Noto+Sans+Ol+Chiki
       
 ## Sample output of the program:
 
-![Screenshot](script_output.png)
+![Screenshot](scripts_output.png)
 
 The `<Reserved>` is printed when a hexadecimal value has not been alloted any character. Refer to Unicode table for more information.
 
@@ -40,5 +40,6 @@ The `<Reserved>` is printed when a hexadecimal value has not been alloted any ch
 |  Odia               |     0x0B00 - 0x0B7F                 | https://unicode.org/charts/PDF/U0B00.pdf             |
 |  Ol Chiki           |     0x1C50 - 0x1C7F                 | https://www.unicode.org/charts/PDF/U1C50.pdf         |
 |  Sharada            |     0x11180 - 0x111DF               | https://unicode.org/charts/PDF/U11180.pdf            |
+|  Siddham            |     0x11580 - 0x115FF               | https://www.unicode.org/charts/PDF/U11580.pdf       |                              
 |  Tamil              |     0x0B80 - 0x0BFF                 | https://unicode.org/charts/PDF/U0B80.pdf             |
 |  Telugu             |     0x0C00 - 0x0C7F                 | https://www.unicode.org/charts/PDF/U0C00.pdf         |
