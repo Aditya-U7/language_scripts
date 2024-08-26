@@ -90,7 +90,7 @@ def generate_the_script():
         'Kannada': (0x0C80, 0x0CFF),
         
         'Malayalam': (0x0D00, 0x0D7F),
-
+        
         'Meetei Mayek': (0xABC0, 0xABFF),
         
         'Odia': (0x0B00, 0x0B7F),
@@ -98,6 +98,8 @@ def generate_the_script():
         'Ol Chiki': (0x1C50, 0x1C7F),
 
         'Sharada': (0x11180, 0x111DF),
+        
+        'Siddham': (0x11580, 0x115FF),
         
         'Tamil': (0x0B80, 0x0BFF),
         
@@ -113,7 +115,7 @@ def generate_the_script():
     print('\n\nRange: ', end='')
 
     print(f'{start:04X}', '-', f'{(end - 1):04X}')
-
+    
     return [i for i in range(start, end)]
 
 
