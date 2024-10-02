@@ -25,6 +25,10 @@ https://fonts.google.com/noto/specimen/Noto+Sans+Ol+Chiki
 
 The `<Reserved>` is printed when a hexadecimal value has not been alloted any character. Refer to Unicode table for more information.
 
+## More scripts:
+
+![Screenshot](more_scripts.png)
+
 ## Hexadecimal range of various scripts:
 
 | Script              |        Range                        |                      PDF Link                        |
@@ -40,6 +44,23 @@ The `<Reserved>` is printed when a hexadecimal value has not been alloted any ch
 |  Odia               |     0x0B00 - 0x0B7F                 | https://unicode.org/charts/PDF/U0B00.pdf             |
 |  Ol Chiki           |     0x1C50 - 0x1C7F                 | https://www.unicode.org/charts/PDF/U1C50.pdf         |
 |  Sharada            |     0x11180 - 0x111DF               | https://unicode.org/charts/PDF/U11180.pdf            |
-|  Siddham            |     0x11580 - 0x115FF               | https://www.unicode.org/charts/PDF/U11580.pdf       |                              
+|  Siddham            |     0x11580 - 0x115FF               | https://www.unicode.org/charts/PDF/U11580.pdf        |                              
 |  Tamil              |     0x0B80 - 0x0BFF                 | https://unicode.org/charts/PDF/U0B80.pdf             |
 |  Telugu             |     0x0C00 - 0x0C7F                 | https://www.unicode.org/charts/PDF/U0C00.pdf         |
+
+
+## More scripts:
+
+
+| Script                              |        Range                        |                      PDF Link                        |
+| ------------------------------------| ----------------------------------  |  --------------------------------------------------  |
+| Alphabetic Presentation Forms       |    0xFB00 – 0xFB4F                  | https://www.unicode.org/charts/PDF/UFB00.pdf         |
+| Arabic                              |    0x0600 - 0x06FF                  | https://www.unicode.org/charts/PDF/U0600.pdf         |
+| Basic Latin                         |    0x0000 - 0x007F                  | https://unicode.org/charts/PDF/U0000.pdf             |
+| CJK Unified Ideographs              |    0x4E00 - 0x9FFF                  | https://www.unicode.org/charts/PDF/U4E00.pdf         |
+| Egyptian Hieroglyphs                |    0x13000 - 0x1342F                | https://www.unicode.org/charts/PDF/U13000.pdf        |
+| Greek and Coptic                    |    0x0370 - 0x03FF                  | https://unicode.org/charts/PDF/U0370.pdf             |
+| Hebrew                              |    0x0590 - 0x05FF                  | https://www.unicode.org/charts/PDF/U0590.pdf         |
+| Hirangana                           |    0x3040 - 0x309F                  | https://www.unicode.org/charts/PDF/U3040.pdf         |
+| Katakana                            |    0x30A0 - 0x30FF                  | https://www.unicode.org/charts/PDF/U30A0.pdf         |
+
