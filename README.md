@@ -61,6 +61,6 @@ The `<Reserved>` is printed when a hexadecimal value has not been alloted any ch
 | Egyptian Hieroglyphs                |    0x13000 - 0x1342F                | https://www.unicode.org/charts/PDF/U13000.pdf        |
 | Greek and Coptic                    |    0x0370 - 0x03FF                  | https://unicode.org/charts/PDF/U0370.pdf             |
 | Hebrew                              |    0x0590 - 0x05FF                  | https://www.unicode.org/charts/PDF/U0590.pdf         |
-| Hirangana                           |    0x3040 - 0x309F                  | https://www.unicode.org/charts/PDF/U3040.pdf         |
+| Hiragana                            |    0x3040 - 0x309F                  | https://www.unicode.org/charts/PDF/U3040.pdf         |
 | Katakana                            |    0x30A0 - 0x30FF                  | https://www.unicode.org/charts/PDF/U30A0.pdf         |
 
