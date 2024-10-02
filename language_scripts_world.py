@@ -113,7 +113,7 @@ def generate_the_script():
         
         'Hiragana' : (0x3040, 0x309F),
         
-        'Katana' : (0x30A0, 0x30FF)
+        'Katakana' : (0x30A0, 0x30FF)
         
     }
     
