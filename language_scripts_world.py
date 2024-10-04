@@ -109,11 +109,17 @@ def generate_the_script():
         
         'Greek and Coptic' : (0x0370, 0x03FF),
         
+        'Hangul Jamo' : (0x1100, 0x11FF),
+        
+        'Hangul Syllables' : (0xAC00, 0xD7AF),
+        
         'Hebrew': (0x0590, 0x05FF),
         
         'Hiragana' : (0x3040, 0x309F),
         
-        'Katakana' : (0x30A0, 0x30FF)
+        'Katakana' : (0x30A0, 0x30FF),
+        
+        'Sinhala' : (0x0D80, 0x0DFF),
         
     }
     
