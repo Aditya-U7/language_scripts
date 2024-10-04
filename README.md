@@ -27,7 +27,7 @@ The `<Reserved>` is printed when a hexadecimal value has not been alloted any ch
 
 ## More scripts:
 
-![Screenshot](more_scripts_.png)
+![Screenshot](world_scripts_.png)
 
 ## Hexadecimal range of various scripts:
 
@@ -60,7 +60,9 @@ The `<Reserved>` is printed when a hexadecimal value has not been alloted any ch
 | CJK Unified Ideographs              |    0x4E00 - 0x9FFF                  | https://www.unicode.org/charts/PDF/U4E00.pdf         |
 | Egyptian Hieroglyphs                |    0x13000 - 0x1342F                | https://www.unicode.org/charts/PDF/U13000.pdf        |
 | Greek and Coptic                    |    0x0370 - 0x03FF                  | https://unicode.org/charts/PDF/U0370.pdf             |
+| Hangol Jamo                         |    0x1100 - 0x11FF                  | https://www.unicode.org/charts/PDF/U1100.pdf         |
+| Hangol Syllables                    |    0xAC00 - 0xD7AF                  | https://unicode.org/charts/PDF/UAC00.pdf             |
 | Hebrew                              |    0x0590 - 0x05FF                  | https://www.unicode.org/charts/PDF/U0590.pdf         |
 | Hiragana                            |    0x3040 - 0x309F                  | https://www.unicode.org/charts/PDF/U3040.pdf         |
 | Katakana                            |    0x30A0 - 0x30FF                  | https://www.unicode.org/charts/PDF/U30A0.pdf         |
-
+| Sinhala                             |    0x0D80 - 0x0DFF                  | https://www.unicode.org/charts/PDF/U0D80.pdf         |
