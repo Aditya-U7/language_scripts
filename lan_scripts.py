@@ -101,9 +101,12 @@ def generate_the_script():
         
         'Siddham': (0x11580, 0x115FF),
         
+        'Takri' : (0x11680, 0x116CF),
+        
         'Tamil': (0x0B80, 0x0BFF),
         
         'Telugu': (0x0C00, 0x0C7F),
+        
     }
     
     user_choice = take_user_choice(script_range)

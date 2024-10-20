@@ -105,6 +105,8 @@ def generate_the_script():
         
         'CJK Unified Ideographs' : (0x4E00, 0x9FFF),
         
+        'Cyrillic' : (0x0400, 0x04FF),
+        
         'Egyptian Hieroglyphs' : (0x13000, 0x1342F),
         
         'Greek and Coptic' : (0x0370, 0x03FF),
