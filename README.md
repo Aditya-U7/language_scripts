@@ -45,6 +45,7 @@ The `<Reserved>` is printed when a hexadecimal value has not been alloted any ch
 |  Ol Chiki           |     0x1C50 - 0x1C7F                 | https://www.unicode.org/charts/PDF/U1C50.pdf         |
 |  Sharada            |     0x11180 - 0x111DF               | https://unicode.org/charts/PDF/U11180.pdf            |
 |  Siddham            |     0x11580 - 0x115FF               | https://www.unicode.org/charts/PDF/U11580.pdf        |                              
+|  Takri              |     0x11680 - 0x116CF               | https://www.unicode.org/charts/PDF/U11680.pdf        |
 |  Tamil              |     0x0B80 - 0x0BFF                 | https://unicode.org/charts/PDF/U0B80.pdf             |
 |  Telugu             |     0x0C00 - 0x0C7F                 | https://www.unicode.org/charts/PDF/U0C00.pdf         |
 
@@ -57,6 +58,7 @@ The `<Reserved>` is printed when a hexadecimal value has not been alloted any ch
 | Alphabetic Presentation Forms       |    0xFB00 – 0xFB4F                  | https://www.unicode.org/charts/PDF/UFB00.pdf         |
 | Arabic                              |    0x0600 - 0x06FF                  | https://www.unicode.org/charts/PDF/U0600.pdf         |
 | Basic Latin                         |    0x0000 - 0x007F                  | https://unicode.org/charts/PDF/U0000.pdf             |
+| Cyrillic                            |    0x0400 - 0x04FF                  | https://www.unicode.org/charts/PDF/U0400.pdf         |
 | CJK Unified Ideographs              |    0x4E00 - 0x9FFF                  | https://www.unicode.org/charts/PDF/U4E00.pdf         |
 | Egyptian Hieroglyphs                |    0x13000 - 0x1342F                | https://www.unicode.org/charts/PDF/U13000.pdf        |
 | Greek and Coptic                    |    0x0370 - 0x03FF                  | https://unicode.org/charts/PDF/U0370.pdf             |
