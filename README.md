@@ -27,7 +27,7 @@ The `<Reserved>` is printed when a hexadecimal value has not been alloted any ch
 
 ## More scripts:
 
-![Screenshot](world_scripts.png)
+![Screenshot](script_int.png)
 
 ## Hexadecimal range of various scripts:
 
